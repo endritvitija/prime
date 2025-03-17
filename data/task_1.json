@@ -1,0 +1,1862 @@
+{
+ "xAxis": {
+  "type": "category",
+  "data": [
+   "Cotton",
+   "Cotton",
+   "Wooden",
+   "Soft",
+   "Metal",
+   "Fresh",
+   "Rubber",
+   "Fresh",
+   "Rubber",
+   "Wooden"
+  ]
+ },
+ "yAxis": {
+  "type": "value"
+ },
+ "series": [
+  {
+   "type": "bar",
+   "name": "Small Soft Soap",
+   "data": [
+    {
+     "value": 30358.33,
+     "name": "Cotton"
+    },
+    {
+     "value": 68709.26,
+     "name": "Cotton"
+    },
+    {
+     "value": 96743.45,
+     "name": "Wooden"
+    },
+    {
+     "value": 26201.63,
+     "name": "Soft"
+    },
+    {
+     "value": 80118.4,
+     "name": "Metal"
+    },
+    {
+     "value": 92433.7,
+     "name": "Fresh"
+    },
+    {
+     "value": 37314.34,
+     "name": "Rubber"
+    },
+    {
+     "value": 41115.62,
+     "name": "Fresh"
+    },
+    {
+     "value": 33322.72,
+     "name": "Rubber"
+    },
+    {
+     "value": 35729.42,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Generic Fresh Shirt",
+   "data": [
+    {
+     "value": 13805.28,
+     "name": "Cotton"
+    },
+    {
+     "value": 53430.62,
+     "name": "Cotton"
+    },
+    {
+     "value": 67832.65,
+     "name": "Wooden"
+    },
+    {
+     "value": 48003.59,
+     "name": "Soft"
+    },
+    {
+     "value": 44987.18,
+     "name": "Metal"
+    },
+    {
+     "value": 55689.41,
+     "name": "Fresh"
+    },
+    {
+     "value": 53463.59,
+     "name": "Rubber"
+    },
+    {
+     "value": 96226.66,
+     "name": "Fresh"
+    },
+    {
+     "value": 84047.15,
+     "name": "Rubber"
+    },
+    {
+     "value": 3250.27,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Unbranded Granite Bike",
+   "data": [
+    {
+     "value": 99801.17,
+     "name": "Cotton"
+    },
+    {
+     "value": 18314.86,
+     "name": "Cotton"
+    },
+    {
+     "value": 46570.03,
+     "name": "Wooden"
+    },
+    {
+     "value": 3251.82,
+     "name": "Soft"
+    },
+    {
+     "value": 68321.37,
+     "name": "Metal"
+    },
+    {
+     "value": 19509.4,
+     "name": "Fresh"
+    },
+    {
+     "value": 29773.95,
+     "name": "Rubber"
+    },
+    {
+     "value": 64581.87,
+     "name": "Fresh"
+    },
+    {
+     "value": 70861.37,
+     "name": "Rubber"
+    },
+    {
+     "value": 34197.98,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Fantastic Cotton Tuna",
+   "data": [
+    {
+     "value": 75567,
+     "name": "Cotton"
+    },
+    {
+     "value": 66534.52,
+     "name": "Cotton"
+    },
+    {
+     "value": 30286.86,
+     "name": "Wooden"
+    },
+    {
+     "value": 19862.92,
+     "name": "Soft"
+    },
+    {
+     "value": 53863.42,
+     "name": "Metal"
+    },
+    {
+     "value": 52441.47,
+     "name": "Fresh"
+    },
+    {
+     "value": 72543.62,
+     "name": "Rubber"
+    },
+    {
+     "value": 83120.7,
+     "name": "Fresh"
+    },
+    {
+     "value": 51099.92,
+     "name": "Rubber"
+    },
+    {
+     "value": 9716.04,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Small Soft Pizza",
+   "data": [
+    {
+     "value": 72743.75,
+     "name": "Cotton"
+    },
+    {
+     "value": 3004.82,
+     "name": "Cotton"
+    },
+    {
+     "value": 35780.64,
+     "name": "Wooden"
+    },
+    {
+     "value": 96948.62,
+     "name": "Soft"
+    },
+    {
+     "value": 20194.86,
+     "name": "Metal"
+    },
+    {
+     "value": 15611.87,
+     "name": "Fresh"
+    },
+    {
+     "value": 79784.06,
+     "name": "Rubber"
+    },
+    {
+     "value": 69820.17,
+     "name": "Fresh"
+    },
+    {
+     "value": 79378.51,
+     "name": "Rubber"
+    },
+    {
+     "value": 24809.52,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Practical Granite Gloves",
+   "data": [
+    {
+     "value": 8521.68,
+     "name": "Cotton"
+    },
+    {
+     "value": 93379.28,
+     "name": "Cotton"
+    },
+    {
+     "value": 24102.34,
+     "name": "Wooden"
+    },
+    {
+     "value": 83091.38,
+     "name": "Soft"
+    },
+    {
+     "value": 81146.04,
+     "name": "Metal"
+    },
+    {
+     "value": 63672.56,
+     "name": "Fresh"
+    },
+    {
+     "value": 479.92,
+     "name": "Rubber"
+    },
+    {
+     "value": 49009.69,
+     "name": "Fresh"
+    },
+    {
+     "value": 22147.72,
+     "name": "Rubber"
+    },
+    {
+     "value": 83254.68,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Handmade Fresh Towels",
+   "data": [
+    {
+     "value": 89669.22,
+     "name": "Cotton"
+    },
+    {
+     "value": 33805.13,
+     "name": "Cotton"
+    },
+    {
+     "value": 25056.45,
+     "name": "Wooden"
+    },
+    {
+     "value": 64294.2,
+     "name": "Soft"
+    },
+    {
+     "value": 14973.62,
+     "name": "Metal"
+    },
+    {
+     "value": 47181.94,
+     "name": "Fresh"
+    },
+    {
+     "value": 13036.65,
+     "name": "Rubber"
+    },
+    {
+     "value": 59020.12,
+     "name": "Fresh"
+    },
+    {
+     "value": 22642.67,
+     "name": "Rubber"
+    },
+    {
+     "value": 80982.48,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Ergonomic Granite Pants",
+   "data": [
+    {
+     "value": 76504.91,
+     "name": "Cotton"
+    },
+    {
+     "value": 60931.13,
+     "name": "Cotton"
+    },
+    {
+     "value": 18449.53,
+     "name": "Wooden"
+    },
+    {
+     "value": 79767.75,
+     "name": "Soft"
+    },
+    {
+     "value": 57739.12,
+     "name": "Metal"
+    },
+    {
+     "value": 69599.46,
+     "name": "Fresh"
+    },
+    {
+     "value": 43587.11,
+     "name": "Rubber"
+    },
+    {
+     "value": 65983.55,
+     "name": "Fresh"
+    },
+    {
+     "value": 65090.61,
+     "name": "Rubber"
+    },
+    {
+     "value": 74685.91,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Incredible Steel Fish",
+   "data": [
+    {
+     "value": 63290.14,
+     "name": "Cotton"
+    },
+    {
+     "value": 29497.87,
+     "name": "Cotton"
+    },
+    {
+     "value": 37290.02,
+     "name": "Wooden"
+    },
+    {
+     "value": 35546.99,
+     "name": "Soft"
+    },
+    {
+     "value": 93032.38,
+     "name": "Metal"
+    },
+    {
+     "value": 9041.67,
+     "name": "Fresh"
+    },
+    {
+     "value": 527.13,
+     "name": "Rubber"
+    },
+    {
+     "value": 73402.69,
+     "name": "Fresh"
+    },
+    {
+     "value": 17719.41,
+     "name": "Rubber"
+    },
+    {
+     "value": 84037.47,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Rustic Wooden Chips",
+   "data": [
+    {
+     "value": 88786.92,
+     "name": "Cotton"
+    },
+    {
+     "value": 58002.32,
+     "name": "Cotton"
+    },
+    {
+     "value": 77684.58,
+     "name": "Wooden"
+    },
+    {
+     "value": 57983.21,
+     "name": "Soft"
+    },
+    {
+     "value": 31639.54,
+     "name": "Metal"
+    },
+    {
+     "value": 35345.47,
+     "name": "Fresh"
+    },
+    {
+     "value": 57145.88,
+     "name": "Rubber"
+    },
+    {
+     "value": 85715.61,
+     "name": "Fresh"
+    },
+    {
+     "value": 82605.57,
+     "name": "Rubber"
+    },
+    {
+     "value": 38462.08,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Rustic Soft Bacon",
+   "data": [
+    {
+     "value": 63028.59,
+     "name": "Cotton"
+    },
+    {
+     "value": 42855.68,
+     "name": "Cotton"
+    },
+    {
+     "value": 4052.92,
+     "name": "Wooden"
+    },
+    {
+     "value": 19580.98,
+     "name": "Soft"
+    },
+    {
+     "value": 50897.27,
+     "name": "Metal"
+    },
+    {
+     "value": 75783.31,
+     "name": "Fresh"
+    },
+    {
+     "value": 95735.17,
+     "name": "Rubber"
+    },
+    {
+     "value": 20136.99,
+     "name": "Fresh"
+    },
+    {
+     "value": 7164.6,
+     "name": "Rubber"
+    },
+    {
+     "value": 74061.6,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Handcrafted Wooden Shoes",
+   "data": [
+    {
+     "value": 89835.32,
+     "name": "Cotton"
+    },
+    {
+     "value": 24650.46,
+     "name": "Cotton"
+    },
+    {
+     "value": 16477.74,
+     "name": "Wooden"
+    },
+    {
+     "value": 75627.98,
+     "name": "Soft"
+    },
+    {
+     "value": 95882.62,
+     "name": "Metal"
+    },
+    {
+     "value": 58397.12,
+     "name": "Fresh"
+    },
+    {
+     "value": 73533.92,
+     "name": "Rubber"
+    },
+    {
+     "value": 13812.98,
+     "name": "Fresh"
+    },
+    {
+     "value": 43421.6,
+     "name": "Rubber"
+    },
+    {
+     "value": 11386.55,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Refined Rubber Pants",
+   "data": [
+    {
+     "value": 74644.24,
+     "name": "Cotton"
+    },
+    {
+     "value": 43323.44,
+     "name": "Cotton"
+    },
+    {
+     "value": 71886.9,
+     "name": "Wooden"
+    },
+    {
+     "value": 35409.23,
+     "name": "Soft"
+    },
+    {
+     "value": 11450.33,
+     "name": "Metal"
+    },
+    {
+     "value": 26917.66,
+     "name": "Fresh"
+    },
+    {
+     "value": 81448.51,
+     "name": "Rubber"
+    },
+    {
+     "value": 15584.83,
+     "name": "Fresh"
+    },
+    {
+     "value": 17314.2,
+     "name": "Rubber"
+    },
+    {
+     "value": 27848,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Awesome Granite Car",
+   "data": [
+    {
+     "value": 74321.22,
+     "name": "Cotton"
+    },
+    {
+     "value": 61185.05,
+     "name": "Cotton"
+    },
+    {
+     "value": 39155.03,
+     "name": "Wooden"
+    },
+    {
+     "value": 95838.98,
+     "name": "Soft"
+    },
+    {
+     "value": 71784.9,
+     "name": "Metal"
+    },
+    {
+     "value": 22930.76,
+     "name": "Fresh"
+    },
+    {
+     "value": 33199.08,
+     "name": "Rubber"
+    },
+    {
+     "value": 44517.96,
+     "name": "Fresh"
+    },
+    {
+     "value": 68036.02,
+     "name": "Rubber"
+    },
+    {
+     "value": 82737.73,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Tasty Cotton Pants",
+   "data": [
+    {
+     "value": 37121.48,
+     "name": "Cotton"
+    },
+    {
+     "value": 54445.88,
+     "name": "Cotton"
+    },
+    {
+     "value": 39533.75,
+     "name": "Wooden"
+    },
+    {
+     "value": 49268.7,
+     "name": "Soft"
+    },
+    {
+     "value": 79863.15,
+     "name": "Metal"
+    },
+    {
+     "value": 73934.09,
+     "name": "Fresh"
+    },
+    {
+     "value": 73345.33,
+     "name": "Rubber"
+    },
+    {
+     "value": 6737.15,
+     "name": "Fresh"
+    },
+    {
+     "value": 66023.1,
+     "name": "Rubber"
+    },
+    {
+     "value": 67211.22,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Rustic Frozen Cheese",
+   "data": [
+    {
+     "value": 44210.61,
+     "name": "Cotton"
+    },
+    {
+     "value": 74860.1,
+     "name": "Cotton"
+    },
+    {
+     "value": 68387.16,
+     "name": "Wooden"
+    },
+    {
+     "value": 53286.4,
+     "name": "Soft"
+    },
+    {
+     "value": 4677.27,
+     "name": "Metal"
+    },
+    {
+     "value": 62647.31,
+     "name": "Fresh"
+    },
+    {
+     "value": 69009.64,
+     "name": "Rubber"
+    },
+    {
+     "value": 51573.57,
+     "name": "Fresh"
+    },
+    {
+     "value": 1025.67,
+     "name": "Rubber"
+    },
+    {
+     "value": 2230.92,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Ergonomic Rubber Keyboard",
+   "data": [
+    {
+     "value": 25984.74,
+     "name": "Cotton"
+    },
+    {
+     "value": 90987.09,
+     "name": "Cotton"
+    },
+    {
+     "value": 82555.94,
+     "name": "Wooden"
+    },
+    {
+     "value": 78537.66,
+     "name": "Soft"
+    },
+    {
+     "value": 28850.88,
+     "name": "Metal"
+    },
+    {
+     "value": 12473.29,
+     "name": "Fresh"
+    },
+    {
+     "value": 28959.73,
+     "name": "Rubber"
+    },
+    {
+     "value": 7596.74,
+     "name": "Fresh"
+    },
+    {
+     "value": 36750.57,
+     "name": "Rubber"
+    },
+    {
+     "value": 89108.94,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Sleek Wooden Pants",
+   "data": [
+    {
+     "value": 69435.95,
+     "name": "Cotton"
+    },
+    {
+     "value": 81672.7,
+     "name": "Cotton"
+    },
+    {
+     "value": 71150.94,
+     "name": "Wooden"
+    },
+    {
+     "value": 55190.35,
+     "name": "Soft"
+    },
+    {
+     "value": 1246.06,
+     "name": "Metal"
+    },
+    {
+     "value": 83384.24,
+     "name": "Fresh"
+    },
+    {
+     "value": 63709.24,
+     "name": "Rubber"
+    },
+    {
+     "value": 57450.82,
+     "name": "Fresh"
+    },
+    {
+     "value": 3331.99,
+     "name": "Rubber"
+    },
+    {
+     "value": 61752.24,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Gorgeous Granite Car",
+   "data": [
+    {
+     "value": 71754.39,
+     "name": "Cotton"
+    },
+    {
+     "value": 97496.15,
+     "name": "Cotton"
+    },
+    {
+     "value": 67391.3,
+     "name": "Wooden"
+    },
+    {
+     "value": 43731.91,
+     "name": "Soft"
+    },
+    {
+     "value": 88421.03,
+     "name": "Metal"
+    },
+    {
+     "value": 98760.83,
+     "name": "Fresh"
+    },
+    {
+     "value": 60229.94,
+     "name": "Rubber"
+    },
+    {
+     "value": 56478.09,
+     "name": "Fresh"
+    },
+    {
+     "value": 12093.68,
+     "name": "Rubber"
+    },
+    {
+     "value": 8529.27,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Unbranded Cotton Sausages",
+   "data": [
+    {
+     "value": 16997.72,
+     "name": "Cotton"
+    },
+    {
+     "value": 68316.46,
+     "name": "Cotton"
+    },
+    {
+     "value": 79787.04,
+     "name": "Wooden"
+    },
+    {
+     "value": 55466.85,
+     "name": "Soft"
+    },
+    {
+     "value": 25881.29,
+     "name": "Metal"
+    },
+    {
+     "value": 87121.31,
+     "name": "Fresh"
+    },
+    {
+     "value": 93827.4,
+     "name": "Rubber"
+    },
+    {
+     "value": 48625.3,
+     "name": "Fresh"
+    },
+    {
+     "value": 34554.54,
+     "name": "Rubber"
+    },
+    {
+     "value": 89144.96,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Awesome Wooden Keyboard",
+   "data": [
+    {
+     "value": 86522.7,
+     "name": "Cotton"
+    },
+    {
+     "value": 55405.78,
+     "name": "Cotton"
+    },
+    {
+     "value": 85789.77,
+     "name": "Wooden"
+    },
+    {
+     "value": 85175.16,
+     "name": "Soft"
+    },
+    {
+     "value": 52005.84,
+     "name": "Metal"
+    },
+    {
+     "value": 65841.84,
+     "name": "Fresh"
+    },
+    {
+     "value": 74109.36,
+     "name": "Rubber"
+    },
+    {
+     "value": 85294.05,
+     "name": "Fresh"
+    },
+    {
+     "value": 82283.04,
+     "name": "Rubber"
+    },
+    {
+     "value": 80514.06,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Sleek Soft Hat",
+   "data": [
+    {
+     "value": 13002.53,
+     "name": "Cotton"
+    },
+    {
+     "value": 30236.65,
+     "name": "Cotton"
+    },
+    {
+     "value": 34342.84,
+     "name": "Wooden"
+    },
+    {
+     "value": 86016.1,
+     "name": "Soft"
+    },
+    {
+     "value": 33426.63,
+     "name": "Metal"
+    },
+    {
+     "value": 97332.11,
+     "name": "Fresh"
+    },
+    {
+     "value": 63228.42,
+     "name": "Rubber"
+    },
+    {
+     "value": 31039.55,
+     "name": "Fresh"
+    },
+    {
+     "value": 62783.1,
+     "name": "Rubber"
+    },
+    {
+     "value": 4094.98,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Intelligent Fresh Ball",
+   "data": [
+    {
+     "value": 43699.13,
+     "name": "Cotton"
+    },
+    {
+     "value": 95464.94,
+     "name": "Cotton"
+    },
+    {
+     "value": 29551.09,
+     "name": "Wooden"
+    },
+    {
+     "value": 40731.62,
+     "name": "Soft"
+    },
+    {
+     "value": 27764.48,
+     "name": "Metal"
+    },
+    {
+     "value": 98008.48,
+     "name": "Fresh"
+    },
+    {
+     "value": 25550.76,
+     "name": "Rubber"
+    },
+    {
+     "value": 14835.88,
+     "name": "Fresh"
+    },
+    {
+     "value": 29323.52,
+     "name": "Rubber"
+    },
+    {
+     "value": 80054.07,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Refined Plastic Bacon",
+   "data": [
+    {
+     "value": 67277.21,
+     "name": "Cotton"
+    },
+    {
+     "value": 4909.38,
+     "name": "Cotton"
+    },
+    {
+     "value": 7254.33,
+     "name": "Wooden"
+    },
+    {
+     "value": 56475.16,
+     "name": "Soft"
+    },
+    {
+     "value": 57157.08,
+     "name": "Metal"
+    },
+    {
+     "value": 21540.41,
+     "name": "Fresh"
+    },
+    {
+     "value": 42101.22,
+     "name": "Rubber"
+    },
+    {
+     "value": 89601.64,
+     "name": "Fresh"
+    },
+    {
+     "value": 87812.11,
+     "name": "Rubber"
+    },
+    {
+     "value": 45791.76,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Handmade Concrete Fish",
+   "data": [
+    {
+     "value": 14932.23,
+     "name": "Cotton"
+    },
+    {
+     "value": 64233.9,
+     "name": "Cotton"
+    },
+    {
+     "value": 10459.8,
+     "name": "Wooden"
+    },
+    {
+     "value": 58810.66,
+     "name": "Soft"
+    },
+    {
+     "value": 8574.23,
+     "name": "Metal"
+    },
+    {
+     "value": 19183.86,
+     "name": "Fresh"
+    },
+    {
+     "value": 34390.97,
+     "name": "Rubber"
+    },
+    {
+     "value": 26977.37,
+     "name": "Fresh"
+    },
+    {
+     "value": 13855.46,
+     "name": "Rubber"
+    },
+    {
+     "value": 76361.79,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Incredible Fresh Chips",
+   "data": [
+    {
+     "value": 38051.92,
+     "name": "Cotton"
+    },
+    {
+     "value": 43489.03,
+     "name": "Cotton"
+    },
+    {
+     "value": 46744.46,
+     "name": "Wooden"
+    },
+    {
+     "value": 94749.72,
+     "name": "Soft"
+    },
+    {
+     "value": 17457.85,
+     "name": "Metal"
+    },
+    {
+     "value": 18167.28,
+     "name": "Fresh"
+    },
+    {
+     "value": 41602.27,
+     "name": "Rubber"
+    },
+    {
+     "value": 68419.99,
+     "name": "Fresh"
+    },
+    {
+     "value": 22846.78,
+     "name": "Rubber"
+    },
+    {
+     "value": 44025.11,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Awesome Cotton Sausages",
+   "data": [
+    {
+     "value": 12333.87,
+     "name": "Cotton"
+    },
+    {
+     "value": 22577.63,
+     "name": "Cotton"
+    },
+    {
+     "value": 30084.16,
+     "name": "Wooden"
+    },
+    {
+     "value": 95861.26,
+     "name": "Soft"
+    },
+    {
+     "value": 60187.73,
+     "name": "Metal"
+    },
+    {
+     "value": 56449.35,
+     "name": "Fresh"
+    },
+    {
+     "value": 65842.15,
+     "name": "Rubber"
+    },
+    {
+     "value": 32051.85,
+     "name": "Fresh"
+    },
+    {
+     "value": 46753.48,
+     "name": "Rubber"
+    },
+    {
+     "value": 2290.54,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Awesome Soft Chair",
+   "data": [
+    {
+     "value": 66.08,
+     "name": "Cotton"
+    },
+    {
+     "value": 26614.4,
+     "name": "Cotton"
+    },
+    {
+     "value": 54023.95,
+     "name": "Wooden"
+    },
+    {
+     "value": 86882.33,
+     "name": "Soft"
+    },
+    {
+     "value": 20365.68,
+     "name": "Metal"
+    },
+    {
+     "value": 85459.14,
+     "name": "Fresh"
+    },
+    {
+     "value": 40784.96,
+     "name": "Rubber"
+    },
+    {
+     "value": 78408.01,
+     "name": "Fresh"
+    },
+    {
+     "value": 78275.93,
+     "name": "Rubber"
+    },
+    {
+     "value": 12692.22,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Generic Granite Car",
+   "data": [
+    {
+     "value": 45052.74,
+     "name": "Cotton"
+    },
+    {
+     "value": 91276.39,
+     "name": "Cotton"
+    },
+    {
+     "value": 56335.92,
+     "name": "Wooden"
+    },
+    {
+     "value": 94644.12,
+     "name": "Soft"
+    },
+    {
+     "value": 34320.1,
+     "name": "Metal"
+    },
+    {
+     "value": 92691.88,
+     "name": "Fresh"
+    },
+    {
+     "value": 86682.31,
+     "name": "Rubber"
+    },
+    {
+     "value": 41873.66,
+     "name": "Fresh"
+    },
+    {
+     "value": 3470.6,
+     "name": "Rubber"
+    },
+    {
+     "value": 33909.1,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Tasty Plastic Car",
+   "data": [
+    {
+     "value": 55731.01,
+     "name": "Cotton"
+    },
+    {
+     "value": 93405.45,
+     "name": "Cotton"
+    },
+    {
+     "value": 40554.73,
+     "name": "Wooden"
+    },
+    {
+     "value": 57647.16,
+     "name": "Soft"
+    },
+    {
+     "value": 11429.57,
+     "name": "Metal"
+    },
+    {
+     "value": 71501.71,
+     "name": "Fresh"
+    },
+    {
+     "value": 49688.49,
+     "name": "Rubber"
+    },
+    {
+     "value": 36128.34,
+     "name": "Fresh"
+    },
+    {
+     "value": 79895.88,
+     "name": "Rubber"
+    },
+    {
+     "value": 13288.61,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Awesome Frozen Hat",
+   "data": [
+    {
+     "value": 61915.37,
+     "name": "Cotton"
+    },
+    {
+     "value": 70327.19,
+     "name": "Cotton"
+    },
+    {
+     "value": 74999.16,
+     "name": "Wooden"
+    },
+    {
+     "value": 74923.42,
+     "name": "Soft"
+    },
+    {
+     "value": 21029.44,
+     "name": "Metal"
+    },
+    {
+     "value": 78461.07,
+     "name": "Fresh"
+    },
+    {
+     "value": 20003.54,
+     "name": "Rubber"
+    },
+    {
+     "value": 88384.99,
+     "name": "Fresh"
+    },
+    {
+     "value": 31428.02,
+     "name": "Rubber"
+    },
+    {
+     "value": 86791.39,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Handcrafted Cotton Towels",
+   "data": [
+    {
+     "value": 37341.68,
+     "name": "Cotton"
+    },
+    {
+     "value": 35116.87,
+     "name": "Cotton"
+    },
+    {
+     "value": 4907.04,
+     "name": "Wooden"
+    },
+    {
+     "value": 29869.18,
+     "name": "Soft"
+    },
+    {
+     "value": 41668.17,
+     "name": "Metal"
+    },
+    {
+     "value": 66437.07,
+     "name": "Fresh"
+    },
+    {
+     "value": 69646.09,
+     "name": "Rubber"
+    },
+    {
+     "value": 62263.66,
+     "name": "Fresh"
+    },
+    {
+     "value": 22037.03,
+     "name": "Rubber"
+    },
+    {
+     "value": 93711.29,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Sleek Soft Keyboard",
+   "data": [
+    {
+     "value": 72164.87,
+     "name": "Cotton"
+    },
+    {
+     "value": 52081,
+     "name": "Cotton"
+    },
+    {
+     "value": 45677.97,
+     "name": "Wooden"
+    },
+    {
+     "value": 58825.65,
+     "name": "Soft"
+    },
+    {
+     "value": 24578.95,
+     "name": "Metal"
+    },
+    {
+     "value": 72689.19,
+     "name": "Fresh"
+    },
+    {
+     "value": 36045.56,
+     "name": "Rubber"
+    },
+    {
+     "value": 40015.22,
+     "name": "Fresh"
+    },
+    {
+     "value": 42422.49,
+     "name": "Rubber"
+    },
+    {
+     "value": 74563.46,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Rustic Fresh Pizza",
+   "data": [
+    {
+     "value": 50793.56,
+     "name": "Cotton"
+    },
+    {
+     "value": 59729.85,
+     "name": "Cotton"
+    },
+    {
+     "value": 10097.37,
+     "name": "Wooden"
+    },
+    {
+     "value": 99038.13,
+     "name": "Soft"
+    },
+    {
+     "value": 78547.01,
+     "name": "Metal"
+    },
+    {
+     "value": 19649.81,
+     "name": "Fresh"
+    },
+    {
+     "value": 74507.61,
+     "name": "Rubber"
+    },
+    {
+     "value": 90913.93,
+     "name": "Fresh"
+    },
+    {
+     "value": 10550.51,
+     "name": "Rubber"
+    },
+    {
+     "value": 93366.27,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Practical Frozen Towels",
+   "data": [
+    {
+     "value": 14119.47,
+     "name": "Cotton"
+    },
+    {
+     "value": 76284.69,
+     "name": "Cotton"
+    },
+    {
+     "value": 31868.85,
+     "name": "Wooden"
+    },
+    {
+     "value": 82401.58,
+     "name": "Soft"
+    },
+    {
+     "value": 72906.44,
+     "name": "Metal"
+    },
+    {
+     "value": 47217.08,
+     "name": "Fresh"
+    },
+    {
+     "value": 77408.82,
+     "name": "Rubber"
+    },
+    {
+     "value": 58783.12,
+     "name": "Fresh"
+    },
+    {
+     "value": 87930.77,
+     "name": "Rubber"
+    },
+    {
+     "value": 69536.68,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Intelligent Cotton Gloves",
+   "data": [
+    {
+     "value": 68411.89,
+     "name": "Cotton"
+    },
+    {
+     "value": 31062.86,
+     "name": "Cotton"
+    },
+    {
+     "value": 7192.84,
+     "name": "Wooden"
+    },
+    {
+     "value": 62111.55,
+     "name": "Soft"
+    },
+    {
+     "value": 16329.24,
+     "name": "Metal"
+    },
+    {
+     "value": 57690.16,
+     "name": "Fresh"
+    },
+    {
+     "value": 74392.36,
+     "name": "Rubber"
+    },
+    {
+     "value": 43789.47,
+     "name": "Fresh"
+    },
+    {
+     "value": 54962.59,
+     "name": "Rubber"
+    },
+    {
+     "value": 91353.3,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Fantastic Granite Table",
+   "data": [
+    {
+     "value": 68221.91,
+     "name": "Cotton"
+    },
+    {
+     "value": 74695.72,
+     "name": "Cotton"
+    },
+    {
+     "value": 20817.35,
+     "name": "Wooden"
+    },
+    {
+     "value": 35869.39,
+     "name": "Soft"
+    },
+    {
+     "value": 68126.13,
+     "name": "Metal"
+    },
+    {
+     "value": 9711.26,
+     "name": "Fresh"
+    },
+    {
+     "value": 74483.59,
+     "name": "Rubber"
+    },
+    {
+     "value": 67793.99,
+     "name": "Fresh"
+    },
+    {
+     "value": 51320.21,
+     "name": "Rubber"
+    },
+    {
+     "value": 81630.85,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Practical Metal Tuna",
+   "data": [
+    {
+     "value": 52947.2,
+     "name": "Cotton"
+    },
+    {
+     "value": 18141.02,
+     "name": "Cotton"
+    },
+    {
+     "value": 84011.35,
+     "name": "Wooden"
+    },
+    {
+     "value": 49585,
+     "name": "Soft"
+    },
+    {
+     "value": 72236.17,
+     "name": "Metal"
+    },
+    {
+     "value": 16130.18,
+     "name": "Fresh"
+    },
+    {
+     "value": 97090.56,
+     "name": "Rubber"
+    },
+    {
+     "value": 34083.1,
+     "name": "Fresh"
+    },
+    {
+     "value": 96203.59,
+     "name": "Rubber"
+    },
+    {
+     "value": 73418.78,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Gorgeous Rubber Tuna",
+   "data": [
+    {
+     "value": 60704.07,
+     "name": "Cotton"
+    },
+    {
+     "value": 13822.61,
+     "name": "Cotton"
+    },
+    {
+     "value": 52252.71,
+     "name": "Wooden"
+    },
+    {
+     "value": 70931.99,
+     "name": "Soft"
+    },
+    {
+     "value": 76364.57,
+     "name": "Metal"
+    },
+    {
+     "value": 81950.47,
+     "name": "Fresh"
+    },
+    {
+     "value": 65706.12,
+     "name": "Rubber"
+    },
+    {
+     "value": 59886.63,
+     "name": "Fresh"
+    },
+    {
+     "value": 33486.71,
+     "name": "Rubber"
+    },
+    {
+     "value": 93177.01,
+     "name": "Wooden"
+    }
+   ]
+  },
+  {
+   "type": "bar",
+   "name": "Sleek Fresh Gloves",
+   "data": [
+    {
+     "value": 1906.13,
+     "name": "Cotton"
+    },
+    {
+     "value": 23156.82,
+     "name": "Cotton"
+    },
+    {
+     "value": 78440.73,
+     "name": "Wooden"
+    },
+    {
+     "value": 44412.25,
+     "name": "Soft"
+    },
+    {
+     "value": 93297.13,
+     "name": "Metal"
+    },
+    {
+     "value": 18327.39,
+     "name": "Fresh"
+    },
+    {
+     "value": 59704.88,
+     "name": "Rubber"
+    },
+    {
+     "value": 81302.92,
+     "name": "Fresh"
+    },
+    {
+     "value": 40118.29,
+     "name": "Rubber"
+    },
+    {
+     "value": 37816.55,
+     "name": "Wooden"
+    }
+   ]
+  }
+ ]
+}

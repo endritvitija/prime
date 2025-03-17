@@ -1,0 +1,31 @@
+{
+  "home": "Kryefaqja",
+  "projects": "Projektet",
+  "loadingProjects": "Duke shkarkuar projektet...",
+  "noProjects": "Nuk ka projekte",
+  "projectDetails": "Detajet e projektit",
+  "loadingDetails": "Duke shkarkuar detajet...",
+  "assets": "Asetet",
+  "status": {
+    "inProgress": "Në progres",
+    "done": "E kryer",
+    "toDo": "Të bëhet"
+  },
+  "errors": {
+    "404": "Faqja nuk ekziston",
+    "pageNotFound": "Faqja që ju po kërkoni nuk ekziston.",
+    "general": "Faqja nuk mund të shfaqet",
+    "refreshAndTryAgain": "Ju lutem rifreskoni dhe provoni përsëri"
+  },
+  "goHome": "Kthehu në faqen kryesore",
+  "charts": {
+    "charts": "Grafikët",
+    "loadingCharts": "Duke shkarkuar grafikët...",
+    "salesByBrand": "Shitjet sipas brendit",
+    "topSoldCategories": "{{count}} kategoritë më të shitura",
+    "categorizedSalesByBrand": "Shitjet e kategorizuara sipas brendit"
+  },
+  "assignee": "I caktuar",
+  "reporter": "Raportuesi",
+  "refresh": "Rifresko"
+}

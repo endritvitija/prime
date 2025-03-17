@@ -1,0 +1,55 @@
+{
+ "series": {
+  "type": "pie",
+  "data": [
+   {
+    "value": 63689.83,
+    "name": "Small Soft Soap",
+    "itemStyle": {
+     "normal": {
+      "color": "rgb(60, 185, 226, 0.7837390148267229)"
+     },
+     "emphasis": {
+      "color": "rgb(60, 185, 226, 0.9837390148267229)"
+     }
+    }
+   },
+   {
+    "value": 55821.51,
+    "name": "Generic Fresh Shirt",
+    "itemStyle": {
+     "normal": {
+      "color": "rgb(60, 185, 226, 0.6869149321569874)"
+     },
+     "emphasis": {
+      "color": "rgb(60, 185, 226, 0.8869149321569874)"
+     }
+    }
+   },
+   {
+    "value": 81264.08,
+    "name": "Unbranded Granite Bike",
+    "itemStyle": {
+     "normal": {
+      "color": "rgb(60, 185, 226, 1)"
+     },
+     "emphasis": {
+      "color": "rgb(60, 185, 226, 1)"
+     }
+    }
+   },
+   {
+    "value": 64726.2,
+    "name": "Fantastic Cotton Tuna",
+    "itemStyle": {
+     "normal": {
+      "color": "rgb(60, 185, 226, 0.7964921278872534)"
+     },
+     "emphasis": {
+      "color": "rgb(60, 185, 226, 0.9964921278872534)"
+     }
+    }
+   }
+  ]
+ }
+}

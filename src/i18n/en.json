@@ -1,0 +1,32 @@
+{
+  "home": "Home",
+  "projects": "Projects",
+  "loadingProjects": "Loading projects...",
+  "noProjects": "No projects",
+  "projectDetails": "Project details",
+  "loadingProjectDetails": "Loading project details...",
+  "assets": "Assets",
+  "status": {
+    "inProgress": "In progress",
+    "done": "Done",
+    "toDo": "To do"
+  },
+  "errors": {
+    "404": "Page not found",
+    "pageNotFound": "The page you are looking for does not exist",
+    "general": "Page could not be loaded",
+    "refreshAndTryAgain": "Please refresh the page and try again"
+  },
+  "goHome": "Go back home",
+  "charts": {
+    "charts": "Charts",
+    "loadingCharts": "Loading charts...",
+    "salesByBrand": "Sales by brand",
+    "topSoldCategories": "Top {{count}} sold categories",
+    "categorizedSalesByBrand": "Categorized sales by brand"
+  },
+  "assignee": "Assignee",
+  "reporter": "Reporter",
+  "refresh": "Refresh",
+  "data": "Data"
+}
