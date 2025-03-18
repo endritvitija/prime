@@ -10,7 +10,8 @@ import { useEffect, useState } from 'react';
 function Project() {
   const { t } = useTranslation();
   const { projectId } = useParams();
-  const [assets, setAssets] = useState()
+  const [assets, setAssets] = useState();
+  const [favorites, setFavorites] = useState(new Set());
 
   const {
     data: project,
@@ -22,19 +23,36 @@ function Project() {
   });
 
   useEffect(() => {
-    if(!project?.assets) {
-      return
+    if (!project?.assets) {
+      return;
     }
-    setAssets(project.assets)
-  }, [project])
+    setAssets(project.assets);
+  }, [project]);
 
   if (isError) {
     return <GeneralError />;
   }
 
   const onDelete = (assetId) => {
-    setAssets((prev) => prev.filter(a => a.id !== assetId))
-  }
+    setAssets((prev) => prev.filter((a) => a.id !== assetId));
+    setFavorites((prev) => {
+      const newFavorites = new Set(prev);
+      newFavorites.delete(assetId);
+      return newFavorites;
+    });
+  };
+
+  const onFavorite = (assetId) => {
+    setFavorites((prev) => {
+      const newFavorites = new Set(prev);
+      if (newFavorites.has(assetId)) {
+        newFavorites.delete(assetId);
+      } else {
+        newFavorites.add(assetId);
+      }
+      return newFavorites;
+    });
+  };
 
   return (
     <div className='p-4'>
@@ -64,7 +82,12 @@ function Project() {
               <Grid container spacing={2}>
                 {assets.map((asset, index) => (
                   <Grid item key={index} xs={12} sm={6} md={4} lg={3}>
-                    <AssetCard asset={asset} onDelete={() => onDelete(asset.id)} />
+                    <AssetCard
+                      asset={asset}
+                      onDelete={() => onDelete(asset.id)}
+                      isFavorite={favorites.has(asset.id)}
+                      onFavorite={() => onFavorite(asset.id)}
+                    />
                   </Grid>
                 ))}
               </Grid>

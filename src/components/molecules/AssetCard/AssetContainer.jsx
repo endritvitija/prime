@@ -3,14 +3,8 @@ import { Card, CardContent, CardHeader, IconButton, Stack, Typography } from '@m
 import clsx from 'clsx';
 import { useState } from 'react';
 
-function AssetContainer({ asset, icon, children, className, onDelete }) {
+function AssetContainer({ asset, icon, children, className, onDelete, onFavorite, isFavorite }) {
   const rootClassName = clsx(className, 'w-full h-48');
-
-  const [isFavorite, setIsFavorite] = useState(false);
-
-  const onFavorite = () => {
-    setIsFavorite((prev) => !prev);
-  };
 
   return (
     <Card
