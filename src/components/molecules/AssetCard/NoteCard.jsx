@@ -14,13 +14,19 @@ import { Note as NoteIcon, OpenInFull } from '@mui/icons-material';
 import DisappearingOverlay from '@/components/atoms/DisappearingOverlay/DisappearingOverlay';
 import { useState } from 'react';
 
-function NoteCard({ note, onDelete }) {
+function NoteCard({ note, onDelete, isFavorite, onFavorite }) {
   const theme = useTheme();
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
   return (
     <>
-      <AssetContainer asset={note} icon={<NoteIcon />} onDelete={onDelete}>
+      <AssetContainer 
+        asset={note} 
+        icon={<NoteIcon />} 
+        onDelete={onDelete}
+        isFavorite={isFavorite}
+        onFavorite={onFavorite}
+      >
         <Stack justifyContent='space-between' className='h-full relative'>
           <Typography variant='body2' overflow='hidden'>
             {note.text}

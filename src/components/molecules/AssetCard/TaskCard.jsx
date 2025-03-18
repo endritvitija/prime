@@ -4,11 +4,17 @@ import { TaskAlt } from '@mui/icons-material';
 import ProjectStatusChip from './ProjectStatusChip';
 import { useTranslation } from 'react-i18next';
 
-function TaskCard({ task, onDelete }) {
+function TaskCard({ task, onDelete, isFavorite, onFavorite }) {
   const { t } = useTranslation();
 
   return (
-    <AssetContainer asset={task} icon={<TaskAlt />} onDelete={onDelete}>
+    <AssetContainer 
+      asset={task} 
+      icon={<TaskAlt />} 
+      onDelete={onDelete}
+      isFavorite={isFavorite}
+      onFavorite={onFavorite}
+    >
       <Stack justifyContent='space-between' className='w-full h-full'>
         <Stack>
           <Stack direction='row' alignItems='center' spacing={1}>
